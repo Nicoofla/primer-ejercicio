@@ -1,0 +1,26 @@
+
+
+
+
+
+
+
+Descripción
+Crear un programa que contenga un archivo datos.js, y en él una constante llamada 
+superheroesData que va a ser la encargada de leer y parsear nuestro JSON. Luego, 
+un archivo app.js con otra constante llamada funcionesSuperheroes que va a 
+realizar lo siguiente:
+mostrarNombres, que va a mostrar los nombres de los superhéroes por la 
+consola.(forEach)
+
+mostrarPorNombre, va a buscar y mostrar la información completa de un superhéroe 
+por su nombre.(find)
+
+mostrarPorEquipo, va a buscar y mostrar todos los superhéroes de un 
+equipo.(filter y foreach)
+
+calcularPromedioEdad, va a calcular y mostrar el promedio de edad de los 
+superhéroes.(reduce)
+
+
+
